@@ -1,8 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(114, 112, 112);
 }
 main {
-  background-color: lightgray;
+  background-color: rgb(255, 255, 255);
 }
 
 .my-custom-row {
