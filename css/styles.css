@@ -18,6 +18,14 @@ p {
   font-family: sans-serif;
   font-size: 18px;
 }
+.request-button {
+  background-color: #005C8D;
+  color: white;
+
+}
+.fa {
+  color:#005C8D;
+}
 .nav_buttons {
   background-color: #FFDE17;
 }
